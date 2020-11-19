@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_PASSW": "cmpg323",
+        "JWT_KEY": "Wagwoord"
+    }
+    
+}
